@@ -5,7 +5,7 @@ The app is in German.
 
 | Library | Speed mode | Focus mode |
 |---|---|---|
-| ![Library](docs/library.png) | ![Speed mode](docs/speed.png) | ![Focus mode](docs/focus.png) |
+| ![Library](docs/screenshots/library.png) | ![Speed mode](docs/screenshots/speed.png) | ![Focus mode](docs/screenshots/focus.png) |
 
 ## Features
 
@@ -22,6 +22,9 @@ Everything stays on the device. The app has no internet permission.
 
 ## Install
 
+**Web version:** open https://erdinco467.github.io/lesefluss/ in any browser (works offline, can be installed as an app). Texts stay in your browser.
+
+**Android:** 
 Download `lesefluss.apk` from the [latest release](../../releases/latest) and open it on the tablet
 (allow installing apps from unknown sources once).
 
