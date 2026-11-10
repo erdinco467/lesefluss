@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A word as three bars with the focus letter in orange, between two guide ticks. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#3A3F4D" android:pathData="M49,34h3v9h-3z M49,65h3v9h-3z" />
+    <path android:fillColor="#ECE8E1" android:pathData="M30,49h14a2.5,2.5 0,0 1,0 10h-14a2.5,2.5 0,0 1,0 -10z" />
+    <path android:fillColor="#FF7A45" android:pathData="M50.5,48a6,6 0,1 1,0 12a6,6 0,1 1,0 -12z" />
+    <path android:fillColor="#ECE8E1" android:pathData="M60,49h18a2.5,2.5 0,0 1,0 10h-18a2.5,2.5 0,0 1,0 -10z" />
+</vector>
